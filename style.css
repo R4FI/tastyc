@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-caption{
+  
+
+    margin-bottom: 25rem;
+   
+}
+
+.tasty{
+    font-family: 'Pacifico', cursive;
+    color: black;
+    font-size: 70px;
+}
+.tasty2{
+    font-family: 'Pacifico', cursive;
+    color: crimson;
+    font-size: 70px;
+}
+.third{
+
+ margin: 40px 1250px;
+}
