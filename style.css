@@ -9,21 +9,20 @@
     box-sizing: border-box;
 }
 
-.carousel-caption{
-  
+.bg-info{
 
-    margin-bottom: 25rem;
-   
+    background-image: url(images/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg);
+
 }
 
 .tasty{
     font-family: 'Pacifico', cursive;
-    color: black;
+   
     font-size: 70px;
 }
 .tasty2{
     font-family: 'Pacifico', cursive;
-    color: white;
+    
     font-size: 70px;
 }
 
@@ -62,4 +61,18 @@
     font-weight: bold;
 }
 
+.fourth-p{
 
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+
+.fourth-h{
+    font-family: 'Mulish', 'cursive';;
+}
+
+.card-footer{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 5px;
+   
+}
